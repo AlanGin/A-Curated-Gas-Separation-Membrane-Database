@@ -1,0 +1,42 @@
+family,study_type,year,journal,title,doi,gas_pair_or_target,priority
+graphene_quantum_dot,experimental,2026,Nature Communications,Graphene quantum dot membranes with tailorable pores for efficient gas separation,10.1038/s41467-026-69938-4,"CO2/N2; CO2/CH4; C3H6/C3H8",high
+graphene,experimental,2024,Nature Energy,Graphene membranes with pyridinic nitrogen at pore edges for high-performance CO2 capture,10.1038/s41560-024-01556-0,CO2/N2,high
+graphene,technoeconomic,2025,Nature Sustainability,Energy- and cost-efficient CO2 capture from dilute emissions by pyridinic-graphene membranes,10.1038/s41893-025-01696-5,dilute CO2 capture,high
+graphene_oxide,experimental,2025,Nature Nanotechnology,Strain-induced crumpling of graphene oxide lamellas to achieve fast and selective transport of H2 and CO2,10.1038/s41565-025-01971-8,H2/CO2,high
+graphene_oxide,perspective,2025,Nature Nanotechnology,Crumpled graphene oxide membranes enable rapid and selective hydrogen separation,10.1038/s41565-025-01978-1,H2/CO2,medium
+graphene_oxide,experimental,2024,Nano Trends,Graphene Oxide/Melamine/Ionic liquid membranes for selective CO2 separation,10.1016/j.nwnano.2024.100033,"CO2/N2; CO2/CH4",high
+graphene_oxide,experimental,2024,ACS Applied Materials & Interfaces,Physicochemical Treatments of Graphene Oxide to Improve Water Vapor/Gas Separation Performance of Supported Laminar Membranes: Sonication and H2O2 Oxidation,10.1021/acsami.3c16844,H2O/N2,medium
+graphene_oxide,experimental,2024,International Journal of Hydrogen Energy,Performance of GO laminated membranes in H2/CO2 separation as a function of the membrane thickness,10.1016/j.ijhydene.2024.09.435,H2/CO2,high
+MOF,experimental,2026,Journal of the American Chemical Society,Orientation-Controlled MOF Membranes Enabling Switchable H2/CO2 Separation,10.1021/jacs.5c22587,H2/CO2,high
+MOF,experimental,2026,ACS Applied Materials & Interfaces,0D-on-2D MOF-Based Membranes for Enhanced Helium Separation,10.1021/acsami.6c00470,"He/CH4; He/CO2; He/N2",high
+MOF,experimental,2026,Journal of Membrane Science,Vapor-phase crystalline transformation of metal-organic framework membranes for efficient hydrogen separation,10.1016/j.memsci.2026.125168,H2 separation,high
+MOF,experimental,2025,Journal of Membrane Science,Rational rigidity control in heterobimetallic MOF nanosheets for precise molecular sieving,10.1016/j.memsci.2025.125069,H2 purification,high
+MOF,experimental,2024,Chemical Engineering Journal,Mixed matrix membranes incorporating two-dimensional ZIF-8 nanosheets for enhanced CO2/N2 separation,10.1016/j.cej.2023.148294,CO2/N2,high
+MOF,experimental,2024,Journal of Membrane Science,Regulation of MOF-74 nanosheet channels for precise H2 purification,10.1016/j.memsci.2024.123140,H2 purification,high
+MOF,review,2024,Nanoscale,Recent advances in the interfacial engineering of MOF-based mixed matrix membranes for gas separation,10.1039/D4NR00096J,general,medium
+MOF,review,2024,Journal of Membrane Science,Stable and scalable MOF-based mixed matrix membranes for CO2 separation: Recent advances and future prospects,10.1016/j.memsci.2023.122258,CO2 separation,medium
+MOF,experimental,2025,Nanomaterials,Self-Assembled Sandwich-like Mixed Matrix Membrane of Defective Zr-MOF for Efficient Gas Separation,10.3390/nano15040279,CO2 separation,medium
+MOF,review,2026,Journal of Materials Chemistry A,Engineering MOFs for thin-film and nanofilm nanocomposite membranes for CO2 separation,10.1039/D5TA07953E,CO2 separation,medium
+COF,experimental,2024,Angewandte Chemie International Edition,Molecular Weaving towards Flexible Covalent Organic Framework Membranes for Efficient Gas Separations,10.1002/anie.202416864,gas separation,high
+COF,experimental,2026,Nature Communications,Solvent-switch-driven covalent organic framework nanosheets for ultra-robust and recyclable gas separation membrane,10.1038/s41467-026-72207-z,gas separation,high
+COF,experimental,2025,Separation and Purification Technology,Confinement-gradient crosslinking strategy for dynamic-gated iCOF@PEI ultrathin composite membranes toward precision H2/CO2 separation,10.1016/j.seppur.2025.135143,H2/CO2,high
+COF,review,2025,ACS Applied Materials & Interfaces,Covalent Organic Framework Membranes: Synthesis Strategies and Separation Applications,10.1021/acsami.5c02556,general,medium
+COF,review,2025,Chemical Communications,Covalent organic framework membranes for CO2 separation: recent advances and challenges,10.1039/D5CC03551A,CO2 separation,medium
+COF,review,2025,Journal of Environmental Chemical Engineering,Recent progress of porous covalent organic frameworks membranes for gas- and liquid-phase separation towards environmental chemical engineering applications,10.1016/j.jece.2025.115487,general,medium
+COF,review,2025,Coordination Chemistry Reviews,Macrocycle-based metal-organic and covalent organic framework membranes,10.1016/j.ccr.2025.216559,general,low
+COF,review,2025,ACS Nano,"Toward Continuous, Oriented Covalent Organic Framework Membranes for Precise Molecular Separations",10.1021/acsnano.5c09252,molecular separations,medium
+porous_framework_MMM,experimental,2026,Nature Communications,Mixed-matrix membranes with molecular recognition windows for selective helium extraction from natural gas,10.1038/s41467-026-69768-4,"He/CH4; He/N2",high
+MXene,experimental,2024,Chemical Communications,A vertically-stacked MXene/rGO composite membrane for highly efficient H2/CO2 separation,10.1039/D4CC00481G,H2/CO2,high
+MXene,experimental,2025,Journal of Membrane Science,Deep eutectic solvent- and nanocellulose-tuned MXene membranes for efficient gas separation,10.1016/j.memsci.2025.124090,gas separation,high
+MXene,experimental,2025,International Journal of Hydrogen Energy,Effect of spin-coated and blade-casted MXene-polydimethylsiloxane asymmetric thin film composite membranes towards effective H2 and CO2 separation performance involving quaternary gas mixture,10.1016/j.ijhydene.2025.151095,H2/CO2/N2/CH4,high
+MXene,experimental,2025,Separation and Purification Technology,Exploring divergent gas separation behavior in MXene-PDMS asymmetric composite and symmetric dense membranes with a quaternary gas mixture (H2/CO2/N2/CH4): Effect of MXene alignment,10.1016/j.seppur.2025.134170,H2/CO2/N2/CH4,high
+MXene_MOF,experimental,2025,Separation and Purification Technology,Heterostructure ZIF-8@MXene with sieving effect in mixed matrix membranes for CO2 separation,10.1016/j.seppur.2024.129779,CO2/N2,high
+MXene,review,2026,Chemical Record,Interfacial Dynamics in MXene Structures: Functional Pathways Toward Next-Generation Mixed Matrix Membranes for CO2 Separation,10.1002/tcr.202500343,CO2 separation,medium
+MXene,review,2025,npj 2D Materials and Applications,Recent advances in retention and permeation of CO2 gas using MXene based membranes,10.1038/s41699-025-00534-8,CO2 separation,medium
+graphdiyne,experimental,2024,Angewandte Chemie International Edition,Precise Preparation of Triarylboron-Based Graphdiyne Analogues for Gas Separation,10.1002/anie.202317294,"CO2/N2; CO2/CH4; CO2/H2",high
+graphdiyne,simulation,2024,Physical Chemistry Chemical Physics,Separation of CO2/CH4 gas mixtures using nanoporous graphdiyne and boron-graphdiyne membranes: influence of the pore size,10.1039/D4CP00872C,CO2/CH4,medium
+graphdiyne,simulation,2024,Computational and Theoretical Chemistry,Theoretical study of NO/CO/O2 gas separation using graphdiyne and boron-doped graphdiyne membranes - A new corresponding state principle,10.1016/j.comptc.2024.114534,NO/CO/O2,low
+graphdiyne,simulation,2023,Journal of Membrane Science,"Molecular design of two-dimensional graphdiyne membrane for selective transport of CO2 and H2 over CH4, N2, and CO",10.1016/j.memsci.2023.121557,"CO2/CH4; H2/CH4",medium
+g-C3N4,experimental,2026,FlatChem,Functionalized graphitic carbon nitride nanosheets as next-generation fillers for fabrication of CO2 separation mixed matrix membranes,10.1016/j.flatc.2026.101051,CO2 separation,medium
+MoS2,experimental,2024,Journal of Membrane Science,Scalable assembly of functionalized molybdenum disulfide membrane for hydrogen-selective permeation via continuous slot-die coating,10.1016/j.memsci.2024.123511,H2/CO2,high
+2D_zeolite_MOF,experimental,2024,Angewandte Chemie International Edition,Effective C4 Separation by Zeolite Metal-Organic Framework Composite Membranes,10.1002/anie.202401118,C4 hydrocarbons,medium
